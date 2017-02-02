@@ -36,5 +36,5 @@ var ServiceResponse = function(envKey, config) {
     this.envName = config.envName;
     this.version = "1.1";
     this.timestamp = new Date();
-    this.version = "1.0"
+    this.Date = "ESTO NO ES UNA FECHA"
 }
