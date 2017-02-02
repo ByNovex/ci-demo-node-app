@@ -37,4 +37,5 @@ var ServiceResponse = function(envKey, config) {
     this.version = "1.1";
     this.timestamp = new Date();
     this.Date = "ESTO NO ES UNA FECHA"
+    this.algo = "-.-'"
 }
